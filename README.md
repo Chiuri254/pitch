@@ -6,9 +6,9 @@
 
 
 
-Here are the requiremtns you need to have:
 
-alembic==0.9.10
+
+
 blinker==1.4
 click==6.7
 dominate==2.3.1
