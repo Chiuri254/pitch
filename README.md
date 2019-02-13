@@ -9,8 +9,7 @@
 
 
 
-blinker==1.4
-click==6.7
+
 dominate==2.3.1
 Flask==1.0.2
 Flask-Bootstrap==3.3.7.1
