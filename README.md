@@ -17,7 +17,7 @@
 
 
 
-Flask-WTF==0.14.2
+
 gunicorn==19.8.1
 itsdangerous==0.24
 Jinja2==2.10
