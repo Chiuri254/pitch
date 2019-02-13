@@ -12,7 +12,7 @@
 
 
 
-Flask-Login==0.4.1
+
 Flask-Mail==0.9.1
 Flask-Migrate==2.2.1
 Flask-Script==2.0.6
