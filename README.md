@@ -19,7 +19,6 @@
 
 
 
-itsdangerous==0.24
 Jinja2==2.10
 Mako==1.0.7
 markdown2==2.3.5
