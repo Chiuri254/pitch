@@ -37,9 +37,3 @@ WTForms==2.2.1
 
 You must have a virtual enviroment to help you install the reqirements. In the virtual enviroment you must install  pip to enable you install the requirements
 
-
-# Lincense
-I am using the mit lincence to cover my app  https://opensource.org/licenses/MIT
-
-# Deployed Site
-here is the link to the deployed site https://oneminite.herokuapp.com/
