@@ -1,7 +1,3 @@
-# One Minite
-Desighned and made by Stephen Kibe
-# Description
-This is an app that enables one to write a pitch of any kind of category that he has and also view other poeple who are logged in the account what they have to comment on your pitch and also enables you to see other peoples ideas or pitches
 
 # Functionality
 You must sign up with your credentials and input a strong password.
