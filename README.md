@@ -17,7 +17,6 @@
 
 
 
-Flask-Uploads==0.2.1
 Flask-WTF==0.14.2
 gunicorn==19.8.1
 itsdangerous==0.24
