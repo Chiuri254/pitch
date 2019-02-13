@@ -18,7 +18,7 @@
 
 
 
-gunicorn==19.8.1
+
 itsdangerous==0.24
 Jinja2==2.10
 Mako==1.0.7
