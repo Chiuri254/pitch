@@ -10,7 +10,7 @@
 
 
 
-dominate==2.3.1
+
 Flask==1.0.2
 Flask-Bootstrap==3.3.7.1
 Flask-Login==0.4.1
