@@ -11,7 +11,7 @@
 
 
 
-Flask-Bootstrap==3.3.7.1
+
 Flask-Login==0.4.1
 Flask-Mail==0.9.1
 Flask-Migrate==2.2.1
