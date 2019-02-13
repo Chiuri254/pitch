@@ -19,7 +19,6 @@
 
 
 
-Jinja2==2.10
 Mako==1.0.7
 markdown2==2.3.5
 MarkupSafe==1.0
