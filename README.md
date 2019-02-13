@@ -1,12 +1,4 @@
 
-# Functionality
-You must sign up with your credentials and input a strong password.
-
-Then you sign up to the app .The app has an add category button that enables you to input yuor favorite Category .
-
-After adding your catego0ry ohn the app you click on it then you post your pitch and also comment on it then you can read the comments on the people
-
-N.B the app has the downvote and upvote functionality which is yet to be implemented you can contribute to my code if you can help in the enabling the upvote and upvote functionality for the time being
 
 # Technical Info
 The app is bulid on flask framework using python
