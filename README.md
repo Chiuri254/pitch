@@ -15,7 +15,7 @@
 
 
 
-Flask-Script==2.0.6
+
 Flask-SimpleMDE==0.3.0
 Flask-SQLAlchemy==2.3.2
 Flask-Uploads==0.2.1
