@@ -14,7 +14,7 @@
 
 
 
-Flask-Migrate==2.2.1
+
 Flask-Script==2.0.6
 Flask-SimpleMDE==0.3.0
 Flask-SQLAlchemy==2.3.2
