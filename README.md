@@ -16,7 +16,7 @@
 
 
 
-Flask-SimpleMDE==0.3.0
+
 Flask-SQLAlchemy==2.3.2
 Flask-Uploads==0.2.1
 Flask-WTF==0.14.2
