@@ -4,7 +4,7 @@
 
 
 
-And also it is deployed to heroku for hosting
+
 
 Here are the requiremtns you need to have:
 
