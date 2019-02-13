@@ -2,7 +2,7 @@
 
 
 
-The database used is the posgreSQL 
+
 
 And also it is deployed to heroku for hosting
 
