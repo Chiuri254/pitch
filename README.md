@@ -1,6 +1,6 @@
 
 
-# Technical Info
+
 The app is bulid on flask framework using python
 
 The database used is the posgreSQL 
