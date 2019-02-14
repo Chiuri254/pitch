@@ -1,5 +1,5 @@
 # Pitch App
-#### This is a website that allows users to post pitches, vote on them and comment on them 14th October 2018
+#### This is a website that allows users to create a category of pitches,click on category to post pitches and comment on them 9th Feb 2019
 #### By **Joseph Chiuri**
 ## Description
 This is a website that allows app's users to post pitches in various categories, comment on others posted and vote on them
