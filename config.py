@@ -18,7 +18,8 @@ class ProdConfig(config):
     Args:
         Config: The parent configuration class with General configuration settings
     '''
-     pass
+     SQLALCHEMY_DATABASE_URI = os.environ.get("DATABASE_URL")
+     SECRET_KEY = os.environ.get("SECRET_KEY")
 
 class DevConfig(config):
      '''
